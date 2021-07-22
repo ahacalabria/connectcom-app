@@ -11,11 +11,11 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Bem-vindo à <a href="https://nextjs.org">Connect Com!</a>
+          Bem-vindo à <a href="https://nextjs.org">PlugaParceiro!</a>
         </h1>
 
         <p className="description">
-          Conectando você e seus fornecedores.
+          Plugando fornecedores e comerciantes.
         </p>
 
         <form>
@@ -30,7 +30,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Conheça mais sobre &rarr;</h3>
-            <p>A ConnectCom é StartUp, é inovação.</p>
+            <p>A PlugaParceiro é StartUp, é inovação.</p>
           </a>
 
           <a
@@ -47,7 +47,7 @@ export default function Home() {
           >
             <h3>FAQ &rarr;</h3>
             <p>
-              Conheça as principais dúvidas ao utilizar a ConnectCom.
+              Conheça as principais dúvidas ao utilizar a PlugaParceiro.
             </p>
           </a>
         </div>
@@ -59,7 +59,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '} ConnectCom
+          Powered by{' '} PlugaParceiro
           {/* <img src="/vercel.svg" alt="Vercel Logo" className="logo" /> */}
         </a>
       </footer>
